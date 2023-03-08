@@ -1,5 +1,5 @@
 <h1 align="center">Hey! Welcome to MiriDEV</h1>
-<h3 align="center">Back-End and Front-End developer</h3>
+<h3 align="center">Full-Stack developer?</h3>
 
 - 🌱 I’m currently learning **html, css, react**
 
