@@ -1,13 +1,11 @@
 <h1 align="center">Hey! Welcome to MiriDEV</h1>
 <h3 align="center">Full-Stack developer?</h3>
 
-- 🌱 I’m currently learning **html, css, react**
+- I’m currently learning **html, css and react**
 
-- 👨‍💻 All of my projects are available at [MDev.yupe452.repl.co](MDev.yupe452.repl.co)
+- All of my projects are available at [My Profile](MDev.yupe452.repl.co)
 
-- 📫 How to reach me **yscnpkr@gmail.com**
-
-- ⚡ Fun fact **I think i'm very bad at this work hadshfja**
+- How to reach me **yscnpkr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
