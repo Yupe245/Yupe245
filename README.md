@@ -3,7 +3,7 @@
 
 - I’m currently learning **html, css and react**
 
-- All of my projects are available at [My Profile](MDev.yupe452.repl.co)
+- All of my projects are available at [My Profile](https://MDev.yupe452.repl.co)
 
 - How to reach me **yscnpkr@gmail.com**
 
