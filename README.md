@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Wassup?</h1>
 
 <ul>
-  <li>- I’m currently learning **html, css and react**</li>
+  <li>- I’m currently learning <bold>html, css and react</bold></li>
   <li>- All of my projects are available at [My Profile](https://MDev.yupe452.repl.co)</li>
   <li>- How to reach me **yscnpkr@gmail.com**</li>
 </ul>
