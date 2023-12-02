@@ -1,10 +1,10 @@
 <h1 align="center">Hey! Wassup?</h1>
 
-<p align="center">
-  - I’m currently learning **html, css and react**
-  - All of my projects are available at [My Profile](https://MDev.yupe452.repl.co)
-  - How to reach me **yscnpkr@gmail.com**
-</p>
+<ul>
+  <li>- I’m currently learning **html, css and react**</li>
+  <li>- All of my projects are available at [My Profile](https://MDev.yupe452.repl.co)</li>
+  <li>- How to reach me **yscnpkr@gmail.com**</li>
+</ul>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
