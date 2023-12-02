@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Wassup?</h1>
 
 <ul align="center">
-  <li align="center">I’m currently learning <span>html, css and react</span></li>
+  <li align="center">I’m currently learning html, css and react</li>
   <li align="center">All of my projects are available at <a href="https://MDev.yupe452.repl.co">My Profile</a></li>
 </ul>
 
