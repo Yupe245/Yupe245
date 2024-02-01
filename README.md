@@ -1,7 +1,7 @@
-<h1 align="center">Hey! Wassup?</h1>
+<h4 align="center">hey welcome, dont forget to take a look around</h4>
 
 <p align="center">im currently learning nextjs and react native</p>
-<p style="text-align: center">if you want to see my projects you cant do it my portfolio is not ready..</p>
+<p align="center">if you want to see my projects you cant do it my portfolio is not ready..</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
